@@ -1,0 +1,11 @@
+Apache NetBeans IDE 12.3
+javax.persistence-api-2.2.jar
+mysql-connector-java-8.0.11-jar
+JDK 15
+
+Base de datos: 
+
+Nombre: tpintegradorfinal
+usuario: root
+contraseña:
+puerto: 3306
